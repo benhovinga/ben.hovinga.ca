@@ -1,0 +1,22 @@
+{
+  "name": "ben.hovinga.ca",
+  "version": "0.1.0-alpha",
+  "description": "Personal website for Ben Hovinga",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benhovinga/ben.hovinga.ca.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Ben Hovinga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benhovinga/ben.hovinga.ca/issues"
+  },
+  "homepage": "https://github.com/benhovinga/ben.hovinga.ca#readme",
+  "dependencies": {}
+}
